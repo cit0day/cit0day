@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in vario
 
 ## 🏆 Top Projects
 
-### [Project 1](https://github.com/cit0day/telegram-to-discord)
+### [Telegram To Discord](https://github.com/cit0day/telegram-to-discord)
 This project reads messages from a Telegram group using the Telegram API, then sends those messages to a Discord webhook.
 
 ## 🗂️ Featured Repositories
