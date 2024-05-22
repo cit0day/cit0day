@@ -1,6 +1,6 @@
 # Hi there, I'm cit0day! 👋
 
-![Profile Banner](https://via.placeholder.com/800x200)
+![Profile Banner](https://i.pinimg.com/564x/27/5d/02/275d0291e150cf033b6d07c215d98289.jpg)
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in various programming languages and a love for open-source projects. Here you'll find information about my skills, projects, and how to connect with me.
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in vario
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about C++, C, HTML, PHP, JavaScript, and C#.
 - 🗣️ I can speak Italian and English.
-- 📫 How to reach me: [Discord](https://discordapp.com/users/cit0day) | [Telegram](https://t.me/cit0day)
+- 📫 How to reach me: [Discord](https://discordapp.com/users/1224772989346775043) | [Telegram](https://t.me/cit0day)
 - ⚡ Fun fact: I enjoy solving complex problems and creating innovative solutions.
 
 ## 🔧 Technologies & Tools
@@ -42,7 +42,7 @@ This project reads messages from a Telegram group using the Telegram API, then s
 
 ## 📫 Connect with Me
 
-- **Discord**: [cit0day](https://discordapp.com/users/cit0day)
+- **Discord**: [cit0day](https://discordapp.com/users/1224772989346775043)
 - **Telegram**: [cit0day](https://t.me/cit0day)
 
 ## 📜 License
