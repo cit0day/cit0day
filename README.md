@@ -33,11 +33,8 @@ This project reads messages from a Telegram group using the Telegram API, then s
 
 ## 🗂️ Featured Repositories
 
-<a href="https://github.com/cit0day/repo1">
+<a href="https://github.com/cit0day/telegram-to-discord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cit0day&repo=repo1&theme=dark" />
-</a>
-<a href="https://github.com/cit0day/repo2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cit0day&repo=repo2&theme=dark" />
 </a>
 
 ## 📫 Connect with Me
